@@ -100,4 +100,4 @@ for curChar in inputStr:
     resultStr += "맣"
 resultStr += "희"
 
-print("아희코드 :" + resultStr)
+print("아희코드 : " + resultStr)
